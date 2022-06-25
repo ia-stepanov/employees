@@ -31,13 +31,9 @@ Employees App — это интерактивное приложение для 
 
     npm install
 
-Собрать проект:
+Запустить приложение:
 
-    npm run build
-
-Запустить проект:
-
-    npm run dev
+    npm run start
 
 ## Языки:
 - JavaScript
